@@ -1,0 +1,127 @@
+.bodytext {
+    
+    background-color: rgb(241, 238, 238);
+    text-align: center;
+    margin: 0;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 15%;
+    padding-right: 15%;
+}
+
+.footer {
+
+    background-color: rgb(241, 238, 238);
+    text-align: center;
+    font-size: 20;
+
+}
+
+
+.italic {
+    font-style: italic;
+}
+
+ol {
+
+    display: inline-block;
+    text-align: left;
+}
+
+a {
+
+    font-weight: bold;
+    font-style: italic;
+    text-decoration: none;
+    color: gray;
+
+}
+
+a:visited {
+
+    color: darkslategrey;
+
+}
+
+a:hover {
+
+    color: black;
+
+}
+
+.header {
+
+    background-color: rgb(241, 238, 238);
+    text-align: left;
+    font-size: 30px;
+    width: 90%;
+    
+}
+
+.box {
+
+    /* background-color: fuchsia; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.row {
+
+    /* background-color: aqua; */
+    width: 75%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    
+}
+
+.bold {
+
+    font-weight: bold;
+
+}
+
+.order {
+
+    display: flex;
+
+}
+
+.source {
+
+    text-align: right;
+
+}
+
+iframe {
+
+    display: -webkit-bo5;
+    margin-right: auto;
+
+}
+
+.font {
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+.pic_frame {
+
+    display: inline-block;
+    text-align: center;
+
+}
+
+ol :last-child {
+
+    padding-bottom: 8px;
+}
+
+.text-title{
+    font-size: 20px;
+}
+
